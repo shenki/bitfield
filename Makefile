@@ -9,7 +9,7 @@ sharedir=$(prefix)/share
 
 sources=bitfield bitfield-completions.sh bitfield.vim Makefile ChangeLog
 deb_meta=bitfield.install bitfield-data.install changelog control rules
-configs=cell.conf powerpc.conf radeon.conf ast2400.conf
+configs=cell.conf powerpc.conf radeon.conf ast2400.conf ast2500.conf
 
 all:
 
